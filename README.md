@@ -89,21 +89,99 @@ print("For population = 70,000,we predict a profit of $" +str(round(predict2,0))
 ```
 
 ## Output:
+1.profit prediction
+
+
+
+
+
 ![Screenshot (41)](https://github.com/MaheshMuthuL/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135570619/ff4fe207-f99a-41ba-87f8-ec4ff2f1507d)
+
+
+
+
+
+
+
+ 2.function output
+
+
+
+
+ 
 
 ![Screenshot (42)](https://github.com/MaheshMuthuL/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135570619/e5e029bb-42f2-44d9-88b0-a6a46d3ff2f5)
 
 
+
+
+
+ 3.Gradient Descent
+
+
+
+ 
+
 ![Screenshot (43)](https://github.com/MaheshMuthuL/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135570619/38ac6814-ffe7-49e8-a598-cefb4bc698ce)
+
+
+
+
+
+ 4.Cost function using gradient descent
+
+
+ 
 
 
 ![Screenshot (44)](https://github.com/MaheshMuthuL/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135570619/000fb802-7a8b-4764-bd30-fc226c076cbf)
 
 
+
+
+
+5.Linear regression using profit prediction
+
+
+
+
+
+
 ![Screenshot (45)](https://github.com/MaheshMuthuL/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135570619/355e9399-53dc-4330-b4b7-3b830fa1c3f6)
 
 
+
+
+ 6.Profit prediction for a population of 35,000
+
+
+
+
+
+
 ![Screenshot (46)](https://github.com/MaheshMuthuL/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135570619/f91415a0-bbfd-424b-b896-a9bd071f698a)
+
+
+
+
+
+ 7.Profit prediction for a population of 70,000
+
+
+
+
+ 
+ 
+ 
+ ![Screenshot (77)](https://github.com/MaheshMuthuL/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/135570619/c9780ad2-59ca-40b4-a304-a09f314aff81)
+
+
+
+
+
+
+
+
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
